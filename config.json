@@ -1,8 +1,8 @@
 {
-  "prefix": "/",
-  "ownerID": ["100010099516674",
+  "prefix": "#",
+  "ownerID": "100010099516674",
   "autoRestart": false,
-  "autoGreet": true,
+  "autoGreet": false,
   "option": {
     "forceLogin": true,
     "listenEvents": true,
